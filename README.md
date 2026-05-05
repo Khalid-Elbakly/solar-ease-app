@@ -36,6 +36,9 @@ Due to NDA restrictions, the source code is not publicly available. This reposit
 
 I developed the application end-to-end, including the mobile UI, navigation structure, localization setup, product and service flows, solar sizing experience, and reusable Flutter components.
 
+## Demo
+[Watch Demo](https://youtube.com/shorts/q1Wim7v9BrM?feature=share)
+
 ## NDA Notice
 
 The implementation details and source code are private due to a non-disclosure agreement. Only a high-level project summary is shared publicly.
