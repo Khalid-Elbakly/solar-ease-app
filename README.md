@@ -1,10 +1,10 @@
 # Solar Ease App
 
-Solar Ease is a Flutter-based mobile application I built as an end-to-end solar energy commerce and service platform. The app helps users explore solar products, estimate system needs, book installation or maintenance services, track orders, and access solar planning tools in a bilingual Arabic/English experience.
+Solar Ease is a Flutter-based mobile application I built as a bilingual (Arabic/English) solar energy advisory platform. The app helps users determine the right solar setup for their needs, explore solar products, book installation or maintenance services, track orders, and get direct support via WhatsApp.
 
 ## Project Overview
 
-This project was designed to simplify the process of adopting solar energy by combining product discovery, service booking, system sizing, and customer support into one mobile app experience.
+This project was designed to simplify the process of adopting solar energy by combining system sizing recommendations, product discovery, service booking, and customer support into one mobile app experience.
 
 Due to NDA restrictions, the source code is not publicly available. This repository is intended as a portfolio case study to showcase the product scope, architecture, and features I worked on.
 
@@ -13,14 +13,14 @@ Due to NDA restrictions, the source code is not publicly available. This reposit
 - Cross-platform Flutter mobile app
 - Arabic and English localization
 - Onboarding and authentication flows
+- Solar system sizing tool with personalized recommendations
 - Solar product catalog for panels, batteries, inverters, and accessories
-- Cart and payment flow UI
-- Order history and order tracking
 - Service booking for installation, maintenance, and inspections
-- Solar system sizing tool with recommendation steps
+- Order history and order tracking
 - Report preview, sharing, and printing support
+- WhatsApp-based support flow for users needing direct assistance
 - GPS/location-based service flow
-- Customer support, FAQ, reports, settings, and profile screens
+- FAQ, settings, and profile screens
 
 ## Tech Stack
 
@@ -34,7 +34,7 @@ Due to NDA restrictions, the source code is not publicly available. This reposit
 
 ## My Role
 
-I developed the application end-to-end, including the mobile UI, navigation structure, localization setup, product and service flows, solar sizing experience, and reusable Flutter components.
+I developed the application end-to-end, including the mobile UI, navigation structure, localization setup, solar sizing experience, product and service flows, and reusable Flutter components.
 
 ## Demo
 [Watch Demo](https://youtube.com/shorts/q1Wim7v9BrM?feature=share)
